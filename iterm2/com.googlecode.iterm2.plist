@@ -64,7 +64,7 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
-	<string>496 486 799 448 0 0 1792 1097 </string>
+	<string>528 198 799 448 0 0 1792 1097 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 23 1792 1074 0 0 1792 1097 </string>
 	<key>New Bookmarks</key>
@@ -230,7 +230,7 @@
 				<real>0.0</real>
 			</dict>
 			<key>Background Image Location</key>
-			<string>/Users/prateekjain/Downloads/12043160_964843583585346_4513443437271196573_n.jpg</string>
+			<string>/Users/prateekjain/Data/pet-projects/dotfiles/iterm2/background.jpg</string>
 			<key>Blend</key>
 			<real>0.17665109536082479</real>
 			<key>Blinking Cursor</key>
@@ -1398,6 +1398,8 @@
 	</dict>
 	<key>NoSyncSearchHistory2</key>
 	<array>
+		<string>htop</string>
+		<string>tigq</string>
 		<string>lxli</string>
 		<string>what</string>
 		<string>core</string>
@@ -1406,8 +1408,6 @@
 		<string>g.s.</string>
 		<string>sec2-</string>
 		<string>available_capacity</string>
-		<string>echo </string>
-		<string>score</string>
 	</array>
 	<key>NoSyncTipOfTheDayEligibilityBeganTime</key>
 	<real>640138955.29490805</real>
