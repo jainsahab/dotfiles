@@ -13,5 +13,6 @@ brew "jq"
 brew "tig"
 brew "watch"
 brew "zsh", link: false
+brew "zsh-syntax-highlighting"
 cask "mattermost"
 cask "rar"
